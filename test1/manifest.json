@@ -4,6 +4,7 @@
     "description":"test app",
     "manifest_version": 3,
     "author": "osrbck",
+    "author":"elf",
     "action":{
         "default_popup":"index.html"
     }
